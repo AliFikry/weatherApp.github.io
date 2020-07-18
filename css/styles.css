@@ -1,0 +1,76 @@
+body {
+  background: linear-gradient(-45deg, #007bff 0%, #6eabec 56%);
+  height: 100%;
+  width: 100%;
+}
+
+.navbar-brand {
+  font-size: 22px;
+}
+
+li {
+  margin: 0px 30px;
+  font-size: 20px;
+}
+
+input {
+  width: 200px;
+}
+
+main .countryName {
+  text-align: center;
+  margin-top: 6%;
+  color: white;
+  margin-right: 15px;
+}
+
+main img {
+  margin-left: 50%;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+}
+
+main .currentWeather {
+  text-align: center;
+  color: white;
+  font-size: 60px;
+}
+
+main .lowAndHigh {
+  text-align: center;
+  color: white;
+  font-size: 30px;
+}
+
+main .lowAndHigh .low {
+  margin-right: 50px;
+}
+
+main .lowAndHigh .high {
+  margin-left: 50px;
+}
+
+main .typeOfSky {
+  text-align: center;
+  color: white;
+  font-size: 20px;
+  margin-top: 15px;
+}
+
+main p {
+  color: white;
+  font-size: 16px;
+}
+
+hr {
+  background-color: white;
+  border-radius: 7px;
+  width: 75%;
+}
+
+footer {
+  height: 10%;
+}
+/*# sourceMappingURL=styles.css.map */
